@@ -11,7 +11,11 @@ change directory to fiverr_bot
 ```
 cd ./fiverr_bot
 ```
-Third step:
+Third step:install the dependencies
+```console
+pip install -r requirements.txt
+```
+Last step:
 run the python script
 ```console
 python main.py
